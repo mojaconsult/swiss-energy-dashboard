@@ -19,3 +19,6 @@ There is a Kibana Setup export provided for the first dashboards.
 Hannes Wuethrich @ Zebbra: IT-Developer and Consultant with a strong Cloud backround including ElasticSearch, Logstash, Kibana.
 Didier Faure @ EcoVillages: Project Consultant with a strong Cleantech backround.  
 Olaf Zanger @ MojaConsult: Energy and Cleantech Consultant with a strong IT-Architecture, strategy-consulting and Internet of Things backround including OpenHAB, Arduino, MQTT.
+
+# Reference
+Find some other projects from the hackdays on http://make.opendata.ch/wiki/event:2016-04
