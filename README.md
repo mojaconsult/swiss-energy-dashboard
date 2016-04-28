@@ -1,4 +1,4 @@
-# Intor pem-hackdays
+# Intro Swiss Energy Dashboard
 
 The project pem was conducted at the energy hackdays 8.5. / 9.5.2016 in Mont Croisin. 
 This repo consists data, import scripts and setup for logstash, elasticsearch and kibana. 
